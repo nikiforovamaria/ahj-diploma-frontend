@@ -6,7 +6,7 @@
 
 ## Описание проекта
 
-![image](./Screenshot_1.jpg)
+![image](https://github.com/nikiforovamaria/ahj-diploma-frontend/blob/master/src/img/Screenshot_1.jpg)
 
 ## Реализованные JS классы
 * svg - возвращает svg иконки, используемые на проекте
