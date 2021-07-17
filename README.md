@@ -6,7 +6,7 @@
 
 ## Описание проекта
 
-![image](https://user-images.githubusercontent.com/60137521/117647540-c0556f00-b195-11eb-892d-b3c56f940942.png)
+![image](./Screenshot_1.jpg)
 
 ## Реализованные JS классы
 * svg - возвращает svg иконки, используемые на проекте
